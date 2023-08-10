@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+body{
+  margin: 0 !important;
+  font-family: var(--font-family);
+  background-color: rgba(158, 220, 212, 0.53);
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
