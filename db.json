@@ -35,6 +35,42 @@
         0
       ],
       "id": 3
+    },
+    {
+      "firstname": "1",
+      "lastname": "1",
+      "email": "1",
+      "password": "1",
+      "phonenumber": "1",
+      "birthdate": "1",
+      "photo": "assets/",
+      "reservations": [],
+      "id": 4
+    },
+    {
+      "firstname": "Harris",
+      "lastname": "Tanweer",
+      "email": "1",
+      "password": "1",
+      "phonenumber": "1",
+      "birthdate": "1",
+      "photo": "assets/",
+      "reservations": [],
+      "id": 5
+    },
+    {
+      "firstname": "Harris",
+      "lastname": "Tanweer",
+      "email": "h@yahoo.com",
+      "password": "1234567890",
+      "phonenumber": "1234567890",
+      "birthdate": "1234",
+      "photo": "assets/",
+      "reservations": [
+        2,
+        0
+      ],
+      "id": 6
     }
   ],
   "cars": [
